@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MySports One DE">
+    <display-name lang="de">MySports One DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 2 DE">
+    <display-name lang="de">MySports 2 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 3 DE">
+    <display-name lang="de">MySports 3 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 4 DE">
+    <display-name lang="de">MySports 4 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 5 DE">
+    <display-name lang="de">MySports 5 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 6 DE">
+    <display-name lang="de">MySports 6 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="MySports 7 DE">
+    <display-name lang="de">MySports 7 DE</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="blue Sport 1 UHD">
+    <display-name lang="de">blue Sport 1 UHD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="blue Sport 2 UHD">
+    <display-name lang="de">blue Sport 2 UHD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="blue Sport 3 UHD">
+    <display-name lang="de">blue Sport 3 UHD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="blue Sport 4 UHD">
+    <display-name lang="de">blue Sport 4 UHD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 1 HD">
+    <display-name lang="de">Blue Sport 1 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 2 HD">
+    <display-name lang="de">Blue Sport 2 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 3 HD">
+    <display-name lang="de">Blue Sport 3 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 4 HD">
+    <display-name lang="de">Blue Sport 4 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 5 HD">
+    <display-name lang="de">Blue Sport 5 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 6 HD">
+    <display-name lang="de">Blue Sport 6 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 7 HD">
+    <display-name lang="de">Blue Sport 7 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 8 HD">
+    <display-name lang="de">Blue Sport 8 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 9 HD">
+    <display-name lang="de">Blue Sport 9 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 10 HD">
+    <display-name lang="de">Blue Sport 10 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 11 HD">
+    <display-name lang="de">Blue Sport 11 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 12 HD">
+    <display-name lang="de">Blue Sport 12 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 13 HD">
+    <display-name lang="de">Blue Sport 13 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 14 HD">
+    <display-name lang="de">Blue Sport 14 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 15 HD">
+    <display-name lang="de">Blue Sport 15 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 16 HD">
+    <display-name lang="de">Blue Sport 16 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 17 HD">
+    <display-name lang="de">Blue Sport 17 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 18 HD">
+    <display-name lang="de">Blue Sport 18 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Blue Sport 19 HD">
+    <display-name lang="de">Blue Sport 19 HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Sport 1+ HD">
+    <display-name lang="de">Sport 1+ HD</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="Sport Digital">
+    <display-name lang="de">Sport Digital</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+  <channel id="FreeSports">
+    <display-name lang="de">FreeSports</display-name>
+    <url>http://www.sport.sky.ch</url>
+  </channel>
+</tv>
